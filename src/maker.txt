@@ -1,0 +1,12 @@
+tiles.add(new Tile(1*77,  2*77 + 1, 77, 77, false, Resource.FOOD, Ownership.NONE, 50));
+tiles.add(new Tile(2*77,  2*77 + 1, 77, 77, false, Resource.FOOD, Ownership.NONE, 50));
+tiles.add(new Tile(3*77,  2*77 + 1, 77, 77, false, Resource.FOOD, Ownership.NONE, 50));
+tiles.add(new Tile(4*77,  2*77 + 1, 77, 77, false, Resource.FOOD, Ownership.NONE, 50));
+tiles.add(new Tile(5*77,  2*77 + 1, 77, 77, false, Resource.FOOD, Ownership.NONE, 50));
+tiles.add(new Tile(6*77,  2*77 + 1, 77, 77, false, Resource.FOOD, Ownership.NONE, 50));
+tiles.add(new Tile(7*77,  2*77 + 1, 77, 77, false, Resource.FOOD, Ownership.NONE, 50));
+tiles.add(new Tile(8*77,  2*77 + 1, 77, 77, false, Resource.FOOD, Ownership.NONE, 50));
+tiles.add(new Tile(9*77,  2*77 + 1, 77, 77, false, Resource.FOOD, Ownership.NONE, 50));
+tiles.add(new Tile(10*77, 2*77 + 1, 77, 77, false, Resource.FOOD, Ownership.NONE, 50));
+tiles.add(new Tile(11*77, 2*77 + 1, 77, 77, false, Resource.FOOD, Ownership.NONE, 50));
+tiles.add(new Tile(12*77, 2*77 + 1, 77, 77, false, Resource.FOOD, Ownership.NONE, 50));
